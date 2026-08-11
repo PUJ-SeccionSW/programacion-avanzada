@@ -36,29 +36,25 @@ La estructura general del repositorio es la siguiente:
 ```text
 programacion-avanzada/
 ├── README.md
-│
 ├── informacion-asignatura/
 │   ├── README.md
 │   ├── syllabus.pdf
 │   └── bibliografia/
-│
 ├── contenido-semanal/
 │   ├── README.md
 │   ├── semana-01/
 │   ├── semana-02/
 │   ├── semana-03/
+│   ├── ...
 │   └── semana-16/
-│
 ├── proyectos/
 │   ├── README.md
 │   ├── proyecto-01/
 │   └── proyecto-final/
-│
-├── evaluaciones/
-│   ├── README.md
-│   ├── evaluacion-01/
-│   └── evaluacion-02/
-│
+└── evaluaciones/
+    ├── README.md
+    ├── evaluacion-01/
+    └── evaluacion-02/
 ```
 
 ## Información de la asignatura
