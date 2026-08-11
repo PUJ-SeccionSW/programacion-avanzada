@@ -36,7 +36,6 @@ La estructura general del repositorio es la siguiente:
 ```text
 programacion-avanzada/
 ├── README.md
-├── LICENSE.md
 │
 ├── informacion-asignatura/
 │   ├── README.md
@@ -60,9 +59,6 @@ programacion-avanzada/
 │   ├── evaluacion-01/
 │   └── evaluacion-02/
 │
-└── .github/
-    ├── ISSUE_TEMPLATE/
-    └── pull_request_template.md
 ```
 
 ## Información de la asignatura
