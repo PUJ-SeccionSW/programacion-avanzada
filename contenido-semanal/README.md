@@ -63,8 +63,8 @@ Descripción breve de las actividades previstas.
 
 | Semana | Tema principal | Materiales |
 | --- | --- | --- |
-| 01 | Por definir | [Ver carpeta](semana-01/) |
-| 02 | Por definir | [Ver carpeta](semana-02/) |
+| 01 | Estructuras | [Ver carpeta](semana-01/) |
+| 02 | Apuntadores | [Ver carpeta](semana-02/) |
 | 03–16 | Por definir | Carpetas correspondientes |
 
 > Complete el índice de acuerdo con la planeación vigente del curso.
