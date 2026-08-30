@@ -56,7 +56,7 @@ void imprimirAnimales(Animales animales [], int cantidad ){
 }
 
 void animalesEnfermos(Animales animales[],int cantidad ){
-fstream ani("enfermos.bin", ios::binary); // se puede usar tambien ofstream 
+ofstream ani("enfermos.bin", ios::binary); // se puede usar tambien fstream | ios::out 
 
     cout << "Animales enfermos guardado en enfermos.bin" << endl;
     cout<<endl<<endl;
