@@ -1,5 +1,9 @@
 # Semana 07: Memoria Dinámica
 
+## Autoría
+
+Las diapositivas de esta semana son de autoría del **profesor Jimmy Alejandro Castro Sabogal**.
+
 ## Temas
 
 - Diferencia entre memoria estática y memoria dinámica.

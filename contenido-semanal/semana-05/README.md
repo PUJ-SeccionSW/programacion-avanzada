@@ -1,5 +1,9 @@
 # Semana 05: Apuntadores
 
+## Autoría
+
+Las diapositivas de esta semana son de autoría del **profesor Jimmy Alejandro Castro Sabogal**.
+
 ## Temas
 
 - Definición, declaración e inicialización de apuntadores.
