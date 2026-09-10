@@ -16,8 +16,29 @@ Al finalizar la semana, el estudiante estará en capacidad de:
 ## Materiales
 
 - [Presentación: tipos de datos](tipos-datos.pdf)
+- [Ejercicios resueltos: estructuras y tipos de datos](ejercicios_estructuras_tipos_datos.cpp)
 
 ## Actividades
 
 - Taller 01: Estructuras - revisión de conceptos de programación (vectores, matrices, funciones, estructuras).
 - Entrega del enunciado del Proyecto 01.
+
+## Compilación y ejecución de los ejercicios
+
+```bash
+g++ ejercicios_estructuras_tipos_datos.cpp -o ejercicios
+./ejercicios
+```
+
+En Windows:
+
+```bash
+ejercicios.exe
+```
+
+## Conceptos utilizados
+
+- Tipos de datos (`int`, `float`, `double`, `char`, `bool`, `short`, `long`).
+- Modificadores (`short`, `long`, `unsigned`, `signed`) y `sizeof()`.
+- Conversión implícita y explícita (casting) entre variables.
+- Estructuras y arreglos de estructuras con funciones.
