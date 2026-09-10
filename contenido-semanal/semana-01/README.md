@@ -1,5 +1,9 @@
 # Semana 01: Estructuras y Tipos de Datos
 
+## Autoría
+
+Las diapositivas de esta semana son de autoría del **profesor Jimmy Alejandro Castro Sabogal**.
+
 ## Temas
 
 - Presentación del curso y objetivos.

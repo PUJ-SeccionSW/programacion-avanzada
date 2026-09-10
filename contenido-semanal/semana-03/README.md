@@ -1,5 +1,9 @@
 # Semana 03: Archivos de Tipo Texto - Acceso Secuencial
 
+## Autoría
+
+Las diapositivas de esta semana son de autoría del **profesor Jimmy Alejandro Castro Sabogal**.
+
 ## Temas
 
 - Archivos: concepto, propósito y tipos.

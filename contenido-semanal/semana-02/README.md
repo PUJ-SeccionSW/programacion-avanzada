@@ -1,5 +1,9 @@
 # Semana 02: Cadenas de Caracteres de tipo `char[]`
 
+## Autoría
+
+Las diapositivas de esta semana son de autoría del **profesor Jimmy Alejandro Castro Sabogal**.
+
 ## Descripción
 
 Material de práctica de la semana 02 de **Programación Avanzada**. Incluye la presentación del tema de cadenas de caracteres de tipo `char[]` y ejercicios resueltos con sus enunciados, junto con ejercicios de repaso de punteros que funcionan como taller de refuerzo.
