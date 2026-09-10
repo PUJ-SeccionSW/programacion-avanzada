@@ -17,6 +17,29 @@ Al finalizar la semana, el estudiante estará en capacidad de:
 ## Materiales
 
 - [Presentación: apuntadores](apuntadores.pdf)
+- [Ejercicios resueltos: apuntadores](ejercicios_apuntadores.cpp)
+
+## Compilación y ejecución de los ejercicios
+
+```bash
+g++ ejercicios_apuntadores.cpp -o ejercicios
+./ejercicios
+```
+
+En Windows:
+
+```bash
+ejercicios.exe
+```
+
+## Conceptos utilizados
+
+- Declaración e inicialización de apuntadores.
+- Desreferenciación (`*`).
+- Aritmética de apuntadores.
+- Paso de parámetros por referencia.
+- Apuntador a apuntador (`int**`).
+- Arreglos y apuntadores.
 
 ## Actividades
 
