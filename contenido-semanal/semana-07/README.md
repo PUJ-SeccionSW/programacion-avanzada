@@ -17,6 +17,28 @@ Al finalizar la semana, el estudiante estará en capacidad de:
 ## Materiales
 
 - [Presentación: memoria dinámica](memoria-dinamica.pdf)
+- [Ejercicios resueltos: memoria dinámica](ejercicios_memoria_dinamica.cpp)
+
+## Compilación y ejecución de los ejercicios
+
+```bash
+g++ ejercicios_memoria_dinamica.cpp -o ejercicios
+./ejercicios
+```
+
+En Windows:
+
+```bash
+ejercicios.exe
+```
+
+## Conceptos utilizados
+
+- Memoria estática vs. memoria dinámica.
+- Operadores `new`, `delete` y `delete[]`.
+- Arreglos unidimensionales y matrices asignadas dinámicamente.
+- Apuntadores a estructuras y operador `->`.
+- Encadenamiento de estructuras (lista enlazada simple).
 
 ## Actividades
 
