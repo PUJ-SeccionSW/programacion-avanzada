@@ -2,6 +2,16 @@
 
 Esta carpeta contiene los proyectos desarrollados en **Programación Avanzada**, así como materiales de apoyo y ejemplos de semestres anteriores que puedan utilizarse como referencia académica.
 
+## Autoría
+
+Los enunciados y materiales de los proyectos son elaborados por el **profesor Jimmy Alejandro Castro Sabogal**.
+
+## Proyectos disponibles
+
+| Proyecto | Periodo | Enunciado | Carpeta |
+| --- | --- | --- | --- |
+| Proyecto 01 | 2026-30 | [enunciado.pdf](proyecto-01-C++/enunciado.pdf) | [proyecto-01-C++](proyecto-01-C++/) |
+
 ## Contenido de un proyecto
 
 Cada proyecto puede incluir:

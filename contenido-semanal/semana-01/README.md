@@ -17,11 +17,12 @@ Al finalizar la semana, el estudiante estará en capacidad de:
 
 - [Presentación: tipos de datos](tipos-datos.pdf)
 - [Ejercicios resueltos: estructuras y tipos de datos](ejercicios_estructuras_tipos_datos.cpp)
+- [Enunciado del Proyecto 01](../../proyectos/proyecto-01-C++/enunciado.pdf) (autoría: prof. Jimmy Alejandro Castro Sabogal)
 
 ## Actividades
 
 - Taller 01: Estructuras - revisión de conceptos de programación (vectores, matrices, funciones, estructuras).
-- Entrega del enunciado del Proyecto 01.
+- Entrega a los estudiantes del enunciado del [Proyecto 01](../../proyectos/proyecto-01-C++/enunciado.pdf).
 
 ## Compilación y ejecución de los ejercicios
 
