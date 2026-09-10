@@ -39,6 +39,10 @@ En Windows:
 ejercicios.exe
 ```
 
+## Material de clase
+
+* `cadenas-caracteres.pdf`: presentación sobre cadenas de caracteres de tipo `char[]`.
+
 ## Conceptos utilizados
 
 * Punteros.
