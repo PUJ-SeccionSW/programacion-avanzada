@@ -181,7 +181,8 @@ Para cualquiera de estos métodos puede usar métodos desarrollados en otros pun
 # Solución
 **1.** 
 En primer lugar, el ejercicio solicita que se retorne un elemento de clase `Libro`, por eso la función debe ser de este tipo. Luego, se necesita recorrer todos los elementos presentes en `catalogo`, para esto se usa `libro l:catalogo` que genera un elemento de tipo libro al que le va asignando secuencialmente los datos de cada elemento existente en la lista. Teniendo este elemento temporal, se usa el getter que el parcial nos indica que ya existe para obtener su título, y así poder compararlo con el que se recibe como parámetro. En caso de encontrarlo, se retorna allí mismo el elemento temporal, que en esa iteración va a contener el dato buscado. Si usamos un `return` en medio de condicionales, aseguramos que la única manera de que llegue al final de la función es que nunca cumpla la condición, por eso podemos ubicar un `return: NULL` después de cerrar la iteración y el condicional.
-```public Libro buscarLibro (string titulo){
+```
+public Libro buscarLibro (string titulo){
     for (libro l: catalogo){
         if (l.getTitulo().equals(titulo)){
             return l;
